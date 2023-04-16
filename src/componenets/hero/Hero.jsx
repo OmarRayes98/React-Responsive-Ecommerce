@@ -19,8 +19,7 @@ const Hero = () => {
 
                 <div className={css.text2}>
                     <span>Trendy Collection</span>
-                    <span>{" "}Seedily say has suitable disposal and boy. Exercuse joy man children rejoiced.</span>
-
+                    <span>Seedily say has suitable disposal and boy. Exercuse joy man children rejoiced.</span>
                 </div>
             </div>
 
