@@ -108,8 +108,9 @@
 @media screen and (max-width:480px) {
 
     .menu{
-        margin-left: 2rem;
+        margin-left: 1rem;
         gap: 1rem;
         font-size: 1.2rem;
+        width: 70%;
     }
 }

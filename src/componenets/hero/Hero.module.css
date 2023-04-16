@@ -184,7 +184,7 @@
     }
 
     .wrapper>img{
-        margin-bottom: 4rem;
+        margin-bottom: 3.5rem;
 
         width: 12rem;
         height: 15rem;
@@ -215,13 +215,20 @@
 
         width: 12rem;
         height: 13rem;
+        z-index: -1;
     }
 
     .cart2{
-        transform: scale(.7);
-        bottom: 0;
+        transform: scale(.6);
+        bottom: -1rem;
     }
-
-
 }
+
+@media  screen and (max-width:324px) {
+    .cart2{
+        transform: scale(.5);
+        bottom: -0.5rem;
+    }
+}
+
 
